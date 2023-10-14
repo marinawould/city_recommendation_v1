@@ -1,0 +1,550 @@
+﻿City;Country;Cost of Living Plus Rent Index;Groceries Index;Local Purchasing Power Index
+New York; United States;100.0;100.0;100.0
+Singapore; Singapore;89.8;75.4;85.9
+Hamilton; Bermuda;118.1;144.1;74.3
+San Francisco; United States;94.5;98.4;100.3
+George Town; Cayman Islands;100.0;106.4;65.1
+San Diego; United States;83.2;77.9;101.3
+San Jose; United States;82.3;81.7;130.4
+Boston; United States;82.0;87.4;106.6
+Washington; United States;80.1;82.5;116.6
+Oakland; United States;86.2;97.3;104.7
+Los Angeles; United States;78.0;78.5;116.1
+Seattle; United States;83.4;87.5;108.4
+Miami; United States;76.3;77.8;84.0
+London; United Kingdom;76.5;58.9;83.0
+Zurich; Switzerland;100.2;120.4;104.0
+Geneva; Switzerland;91.6;106.9;100.0
+Zug; Switzerland;94.1;112.6;121.4
+Austin; United States;71.5;70.7;110.8
+Hong Kong; Hong Kong (China);67.0;77.9;68.8
+Charlotte; United States;71.7;79.7;99.7
+Honolulu; United States;80.4;107.0;74.4
+Sydney; Australia;71.2;76.7;87.8
+Fort Lauderdale; United States;67.7;75.4;112.1
+Dublin; Ireland;68.9;62.5;71.4
+Tampa; United States;69.9;77.3;111.2
+Sacramento; United States;73.2;88.0;98.5
+Chicago; United States;70.5;82.9;134.9
+Raleigh; United States;69.1;72.0;98.9
+Saint Petersburg; United States;63.0;71.1;117.8
+Saint Helier; Jersey;72.3;65.6;62.2
+Vancouver; Canada;64.9;73.6;77.8
+Denver; United States;68.3;79.8;126.6
+Nashville; United States;68.0;80.1;107.8
+Dallas; United States;66.5;75.8;111.5
+Lausanne; Switzerland;88.6;116.1;99.4
+Portland; United States;69.7;80.5;102.0
+Atlanta; United States;65.4;76.2;120.3
+Orlando; United States;63.2;74.1;113.5
+Toronto; Canada;62.0;69.0;82.7
+Dubai; United Arab Emirates;58.2;48.7;117.8
+Guildford; United Kingdom;58.9;59.8;81.0
+San Juan; Puerto Rico;62.3;70.4;43.6
+Luxembourg; Luxembourg;60.0;63.6;124.2
+Doha; Qatar;53.5;44.4;102.1
+Philadelphia; United States;65.2;78.4;121.4
+Canberra; Australia;69.1;77.6;69.1
+Phoenix; United States;61.4;66.5;126.9
+Victoria; Canada;63.2;79.9;73.3
+Amsterdam; Netherlands;58.4;56.3;108.2
+Basel; Switzerland;90.2;137.4;113.2
+Copenhagen; Denmark;65.4;66.0;86.7
+Markham; Canada;57.9;61.5;87.9
+Oxford; United Kingdom;57.1;57.7;96.6
+Madison; United States;59.0;69.9;94.6
+New Orleans; United States;63.6;78.4;87.8
+Limassol; Cyprus;53.8;49.1;49.8
+Cambridge; United Kingdom;58.8;61.6;95.3
+Brighton; United Kingdom;57.2;55.1;79.4
+Abu Dhabi; United Arab Emirates;52.0;42.3;110.5
+Salt Lake City; United States;56.2;62.1;123.5
+Reno; United States;59.0;72.0;81.3
+Houston; United States;57.0;64.3;147.0
+Detroit; United States;57.9;69.2;112.9
+Mississauga; Canada;53.3;57.4;98.1
+Nassau; Bahamas;74.5;85.2;39.4
+Grand Rapids; United States;58.1;74.7;144.0
+Wellington; New Zealand;60.2;73.4;67.2
+Tel Aviv-Yafo; Israel;59.2;62.8;77.3
+Minneapolis; United States;62.0;76.2;110.9
+Reykjavik; Iceland;67.6;86.6;85.4
+Knoxville; United States;54.4;61.1;121.1
+San Antonio; United States;55.6;60.8;124.9
+Boise; United States;56.9;64.4;97.6
+Albuquerque; United States;57.5;65.8;136.6
+Las Vegas; United States;58.4;69.1;92.9
+Paris; France;60.4;76.1;76.2
+Melbourne; Australia;61.4;78.1;84.8
+Cork; Ireland;56.0;55.8;86.4
+Richmond; United States;53.4;60.4;139.3
+Columbus; United States;57.4;68.9;105.7
+Brisbane; Australia;62.6;76.6;80.4
+Kansas City; United States;55.7;64.2;108.1
+Jacksonville; United States;56.1;71.7;124.5
+Milan; Italy;57.7;63.3;51.3
+Milwaukee; United States;57.2;65.3;138.5
+Guelph; Canada;53.6;63.7;102.0
+Buffalo; United States;60.5;76.4;95.9
+Perth; Australia;61.4;75.0;82.3
+Munich; Germany;57.7;62.4;99.9
+Eugene; United States;58.3;73.1;80.9
+Fort Worth; United States;59.1;82.0;105.0
+Cincinnati; United States;52.3;63.4;111.0
+Spokane; United States;57.2;66.4;99.3
+Fresno; United States;57.6;69.8;122.1
+Pittsburgh; United States;59.5;81.3;114.5
+Galway; Ireland;53.0;57.5;80.5
+Gold Coast; Australia;53.5;62.9;121.0
+Cleveland; United States;57.9;76.5;113.6
+Tucson; United States;59.9;74.1;106.5
+Auckland; New Zealand;58.2;75.0;83.8
+Brampton; Canada;51.2;56.3;100.1
+Adelaide; Australia;64.6;84.8;67.3
+Kelowna; Canada;52.4;66.6;90.8
+Surrey; Canada;52.9;64.4;113.2
+Oklahoma City; United States;57.3;71.0;90.1
+Bristol; United Kingdom;52.2;51.0;89.0
+Berlin; Germany;54.9;58.3;93.4
+Ottawa; Canada;56.4;65.0;89.6
+Kitchener; Canada;52.2;66.3;102.8
+Bern; Switzerland;75.7;104.7;134.8
+Limerick; Ireland;50.9;54.6;89.9
+Oshawa; Canada;56.9;74.6;113.5
+Reading; United Kingdom;52.6;53.4;102.2
+Edinburgh; United Kingdom;50.9;50.7;85.0
+Saint Louis; United States;54.3;70.0;103.2
+London; Canada;52.0;62.7;109.4
+Hamilton; Canada;52.9;67.2;83.6
+Indianapolis; United States;54.5;68.2;125.8
+Milton Keynes; United Kingdom;49.7;50.4;114.6
+Nanaimo;Canada;54.6;73.1;79.5
+Memphis; United States;50.9;62.3;139.4
+Kingston; Canada;51.6;66.9;97.6
+Lisbon; Portugal;44.0;43.6;43.7
+Calgary; Canada;55.1;67.7;94.3
+Jerusalem; Israel;52.0;57.4;76.3
+Halifax; Canada;53.4;70.1;81.6
+Rotterdam; Netherlands;50.3;53.3;115.0
+Kamloops; Canada;52.2;70.7;85.7
+Ramat Gan; Israel;55.0;66.4;67.9
+Oslo; Norway;60.3;76.6;96.6
+Valletta; Malta;53.4;59.3;42.1
+Utrecht; Netherlands;51.0;54.1;111.7
+Stockholm; Sweden;52.3;61.9;92.0
+Frankfurt; Germany;53.4;57.0;110.4
+Cascais; Portugal;41.2;36.3;49.7
+Eindhoven; Netherlands;50.8;53.5;115.7
+Louisville; United States;51.5;67.4;136.7
+Bournemouth; United Kingdom;49.2;50.3;75.1
+Shanghai; China;38.0;43.8;54.7
+Birmingham; United Kingdom;47.1;49.0;99.0
+Manchester; United Kingdom;49.8;52.5;91.2
+Macao; Macao (China);49.6;73.5;73.6
+Seoul; South Korea;55.0;92.6;81.2
+Rome; Italy;49.3;58.9;59.2
+Tromso; Norway;57.5;74.6;87.2
+The Hague (Den Haag); Netherlands;46.9;47.9;123.7
+Nijmegen; Netherlands;52.0;58.1;94.4
+Brussels; Belgium;51.6;60.5;96.1
+Sliema; Malta;47.7;55.6;52.9
+Douglas; Isle Of Man;46.3;47.3;158.3
+Trondheim; Norway;60.6;76.1;87.8
+St.Catharines; Canada;50.5;64.9;116.0
+Espoo; Finland;56.5;71.7;84.9
+Arhus; Denmark;56.7;66.5;100.6
+Barcelona; Spain;44.6;46.1;68.8
+Prague; Czech Republic;46.9;52.8;65.2
+Exeter; United Kingdom;46.9;49.7;85.6
+Montpellier; France;50.3;67.7;87.3
+Heidelberg; Germany;50.3;51.7;102.5
+Innsbruck; Austria;51.5;62.7;75.6
+Hamburg; Germany;52.1;56.7;99.9
+Windsor; Canada;47.1;56.4;103.3
+Montreal; Canada;49.0;65.5;94.0
+Maastricht; Netherlands;50.3;58.3;99.1
+Dusseldorf; Germany;52.5;64.2;93.4
+Beijing; China;35.7;39.5;73.8
+Stuttgart; Germany;49.1;56.4;114.2
+Portsmouth; United Kingdom;46.3;54.3;103.4
+Freiburg im Breisgau; Germany;51.4;60.3;95.4
+Bergen; Norway;59.6;79.9;77.6
+Norwich; United Kingdom;46.2;48.1;94.3
+Helsinki; Finland;50.9;61.6;103.6
+Salzburg; Austria;53.5;70.0;77.9
+Odense; Denmark;58.1;73.9;84.0
+Delft; Netherlands;48.6;58.3;102.9
+Christchurch; New Zealand;49.7;68.9;101.4
+Leeds; United Kingdom;48.7;53.4;91.9
+Darmstadt; Germany;55.5;65.2;90.6
+Madrid; Spain;40.8;45.5;103.2
+Nice; France;52.7;71.1;79.9
+Breda; Netherlands;49.1;57.7;126.2
+Cologne; Germany;49.8;56.3;85.0
+Cardiff; United Kingdom;45.4;49.1;92.7
+Southampton; United Kingdom;46.3;47.9;95.3
+Stavanger; Norway;56.7;74.4;82.8
+Glasgow; United Kingdom;47.9;52.7;97.0
+Netanya; Israel;50.3;58.4;64.9
+Sheffield; United Kingdom;46.2;49.6;82.0
+Tokyo; Japan;42.9;63.0;88.7
+Bonn; Germany;48.8;48.5;78.4
+Kuwait City; Kuwait;37.3;33.6;81.3
+Yerevan; Armenia;35.8;36.9;45101,00
+Warsaw; Poland;37.9;39.0;63.4
+Belfast; United Kingdom;45.9;52.1;88.4
+Puerto Vallarta; Mexico;34.8;38.3;43.1
+Winnipeg; Canada;48.4;67.1;74.7
+Manama; Bahrain;41.2;41.2;80.3
+Bilbao; Spain;42.8;53.2;74.3
+Liverpool; United Kingdom;46.6;52.6;77.7
+Enschede; Netherlands;47.1;58.0;109.0
+Florence; Italy;48.3;62.2;52.8
+Playa del Carmen; Mexico;34.7;40.5;34.9
+Trento; Italy;45.9;56.2;60.0
+Edmonton; Canada;49.5;66.5;96.1
+Plymouth; United Kingdom;46.0;50.7;56.5
+Larnaca; Cyprus;45.1;50.3;47.0
+Vienna; Austria;45.9;57.9;104.0
+Nottingham; United Kingdom;46.7;59.0;87.2
+Hobart; Australia;46.7;60.9;115.8
+Coventry; United Kingdom;42.3;46.9;132.4
+Newcastle upon Tyne; United Kingdom;44.4;51.1;91.6
+Saskatoon; Canada;47.0;63.1;95.5
+Male; Maldives;40.8;47.7;32.3
+Karlsruhe; Germany;47.6;55.7;104.9
+Leuven; Belgium;45.8;54.9;90.7
+Porto; Portugal;36.0;42.0;60.4
+Palma de Mallorca; Spain;40.5;44.7;66.2
+Swansea; United Kingdom;43.9;50.6;74.4
+Bologna; Italy;46.4;57.2;59.2
+Funchal; Portugal;36.2;40.9;46.9
+Panama City; Panama;37.8;47.2;34.0
+Gothenburg; Sweden;43.7;55.9;95.8
+Gent; Belgium;46.9;55.5;83.2
+Antwerp; Belgium;47.5;54.3;82.1
+Paphos; Cyprus;40.0;40.8;49.3
+Wiesbaden; Germany;46.5;54.1;90.3
+Petah Tikva; Israel;46.8;58.5;75.0
+Budva; Montenegro;35.0;36.1;34.4
+Fredericton; Canada;47.1;66.2;108.5
+Tbilisi; Georgia;33.6;37.2;44950,00
+Leicester; United Kingdom;42.7;46.4;97.3
+Lille; France;45.5;58.7;81.7
+Nantes; France;45.9;64.4;72.5
+Hamilton; New Zealand;45.6;63.7;83.1
+Malaga; Spain;37.3;40.6;87.2
+Lyon; France;50.3;73.0;87.5
+Red Deer; Canada;45.8;63.2;105.9
+Linz; Austria;48.0;64.7;83.4
+Mexico City; Mexico;35.5;45.1;36.2
+Douala; Cameroon;38.3;41.6;44932,00
+Nuremberg; Germany;45.5;54.3;101.6
+Marseille; France;45.8;62.7;81.2
+Augsburg; Germany;44.6;47.2;97.3
+Monterrey; Mexico;36.1;46.6;47.9
+Padova; Italy;43.3;52.9;58.7
+Suzhou; China;43.4;71.8;45166,00
+Dakar; Senegal;35.0;38.5;44977,00
+Groningen; Netherlands;45.8;55.5;98.4
+Quebec City; Canada;47.5;65.6;91.7
+Valencia; Spain;36.4;43.7;94.4
+Regina; Canada;43.1;57.7;135.9
+Dundee; United Kingdom;44.1;53.8;86.7
+Bordeaux; France;46.5;65.6;81.9
+Ljubljana; Slovenia;39.3;48.1;58.9
+Derby; United Kingdom;43.7;52.5;108.1
+Hanover; Germany;46.5;56.6;87.7
+Toulouse; France;46.7;68.0;91.0
+Graz; Austria;46.7;62.5;83.0
+Bergamo; Italy;43.7;54.8;71.7
+Lund; Sweden;44.0;58.1;96.9
+San Jose; Costa Rica;39.7;54.0;33.5
+Mannheim; Germany;44.6;53.2;105.1
+St. John's;Canada;47.5;70.4;96.5
+Riyadh; Saudi Arabia;37.6;42.1;93.2
+Verona; Italy;42.0;54.8;63.8
+Tampere; Finland;43.4;53.6;94.8
+Barbados; Barbados;56.7;80.5;45075,00
+Aalborg; Denmark;49.8;63.5;109.4
+Villach; Austria;51.1;72.3;57.9
+Sharjah; United Arab Emirates;35.7;35.9;67.9
+Malmo; Sweden;41.9;54.4;98.9
+Pamplona; Spain;36.7;45.5;115.1
+Vilnius; Lithuania;37.1;43.0;60.2
+Aberdeen; United Kingdom;41.8;47.2;116.7
+Uppsala; Sweden;42.4;55.1;84.5
+Phuket; Thailand;45199,00;40.1;45104,00
+Krakow (Cracow); Poland;33.9;36.9;66.9
+Treviso; Italy;42.3;53.4;60.0
+Almaty; Kazakhstan;44954,00;45016,00;31.4
+Shenzhen; China;45107,00;41.8;73.3
+Bangkok; Thailand;33.2;45.3;44956,00
+Accra; Ghana;44982,00;45135,00;13.0
+Belgrade; Serbia;33.0;38.9;33.7
+Taipei; Taiwan;39.6;65.7;73.2
+Santo Domingo; Dominican Republic;35.8;42.2;45188,00
+Brescia; Italy;43.3;58.1;64.1
+Moscow; Russia;45105,00;45075,00;55.9
+Turku; Finland;45.9;59.3;95.0
+Las Palmas de Gran Canaria; Spain;34.8;42.5;56.0
+Leipzig; Germany;42.6;51.4;90.1
+Oulu; Finland;45.7;61.2;96.4
+Brno; Czech Republic;36.6;43.4;66.4
+Bremen; Germany;43.9;57.6;90.9
+Wroclaw; Poland;33.2;35.8;58.9
+Nicosia; Cyprus;39.0;46.1;62.5
+Aachen; Germany;43.1;52.7;108.3
+Dortmund; Germany;45.4;54.2;81.8
+Grenoble; France;45.2;65.1;82.8
+Bratislava; Slovakia;37.4;46.6;55.5
+Bari; Italy;41.1;54.3;64.4
+Haifa; Israel;45.2;58.8;86.7
+Gdansk; Poland;32.4;35.8;64.7
+Essen; Germany;44.1;50.0;103.2
+Santa Cruz de Tenerife; Spain;32.7;39.0;65.8
+Szczecin; Poland;31.0;35.0;54.9
+Alicante; Spain;35.0;41.3;69.0
+Havana; Cuba;37.8;47.4;45047,00
+Turin; Italy;41.1;53.7;64.2
+Dresden; Germany;41.8;49.1;100.3
+Beirut; Lebanon;37.1;36.8;44997,00
+Kingston; Jamaica;39.6;60.5;45010,00
+Rimini; Italy;40.4;51.8;67.6
+Braga; Portugal;32.0;39.0;54.4
+Cagliari; Italy;41.6;53.5;57.3
+Tallinn; Estonia;39.2;44.7;65.7
+Naples; Italy;38.3;47.1;59.5
+Genoa; Italy;42.9;60.0;56.9
+Zaragoza (Saragossa); Spain;32.5;37.6;79.5
+Trinidad; Trinidad And Tobago;38.6;55.3;40.6
+Mumbai; India;44979,00;25.0;53.0
+Cape Town; South Africa;45133,00;45165,00;73.9
+Addis Ababa; Ethiopia;32.1;37.9;45148,00
+New Taipei City; Taiwan;34.3;57.7;65.4
+Montevideo; Uruguay;40.4;51.7;43.9
+Trieste; Italy;43.1;57.9;61.5
+Aveiro; Portugal;45077,00;37.4;43.4
+Seville (Sevilla); Spain;34.7;44.0;75.7
+Suva; Fiji;44952,00;35.2;78.9
+Manila; Philippines;45045,00;39.0;24.0
+Vicenza; Italy;42.5;56.7;61.0
+Parma; Italy;42.8;55.6;64.0
+Muscat; Oman;34.6;40.0;82.5
+Guadalajara; Mexico;31.6;44.7;41.3
+Murcia; Spain;31.9;35.8;65.0
+Zagreb; Croatia;36.0;45.6;55.0
+Sao Paulo; Brazil;45077,00;39.7;45009,00
+Granada; Spain;34.4;41.5;85.2
+Athens; Greece;39.0;49.0;41.2
+Beersheba; Israel;44.2;61.6;80.9
+Tijuana; Mexico;32.8;41.8;41.7
+Santiago; Chile;35.5;50.0;44957,00
+Leiria; Portugal;31.9;33.7;63.7
+Vigo; Spain;32.0;41.0;75.8
+Coimbra; Portugal;31.6;38.2;50.2
+Budapest; Hungary;34.9;45.6;53.6
+Lodz; Poland;45015,00;33.4;55.6
+Kingston upon Hull; United Kingdom;36.2;45.9;102.1
+Merida; Mexico;45016,00;44.9;31.6
+Poznan; Poland;31.2;38.2;58.6
+Phnom Penh; Cambodia;45138,00;44.6;44941,00
+Cancun; Mexico;44957,00;42.3;38.2
+Port of Spain; Trinidad And Tobago;38.0;51.9;31.6
+San Salvador; El Salvador;30.2;42.6;45068,00
+Lagos; Nigeria;44947,00;27.0;45057,00
+Istanbul; Turkey;25.0;45106,00;44957,00
+Jakarta; Indonesia;45163,00;38.0;27.0
+Guatemala City; Guatemala;45014,00;40.5;45161,00
+Kosice; Slovakia;33.0;42.1;51.3
+Ho Chi Minh City; Vietnam;45042,00;37.4;44954,00
+Abidjan; Ivory Coast;44957,00;37.4;45144,00
+Olomouc; Czech Republic;33.1;43.1;65.0
+Osaka; Japan;35.0;53.9;92.8
+Oviedo; Spain;34.9;47.5;93.8
+Ostrava; Czech Republic;34.4;43.7;65.7
+Plzen; Czech Republic;33.9;43.3;75.8
+Guangzhou; China;45194,00;35.9;67.1
+Antalya; Turkey;45158,00;44949,00;44956,00
+Port Louis; Mauritius;29.2;42.1;45195,00
+Kaunas; Lithuania;32.9;42.3;60.3
+Tartu; Estonia;36.8;47.8;59.6
+Tashkent; Uzbekistan;45007,00;44953,00;45102,00
+Alanya; Turkey;45004,00;45127,00;29.0
+Lima; Peru;26.0;34.7;44984,00
+Hangzhou; China;27.0;44.6;56.4
+Novi Sad; Serbia;45165,00;36.6;37.8
+Queretaro (Santiago de Querétaro); Mexico;44955,00;43.4;49.5
+Bucharest; Romania;30.2;39.2;51.5
+Tirana; Albania;45198,00;39.8;45105,00
+Split; Croatia;44956,00;40.0;57.7
+Isfahan (Esfahan); Iran;45157,00;18.0;45158,00
+Tehran; Iran;45099,00;45068,00;44944,00
+Port Elizabeth; South Africa;45011,00;45135,00;60.5
+Zadar; Croatia;33.7;43.8;38.2
+Thessaloniki; Greece;35.8;45.0;37.8
+Jeddah (Jiddah); Saudi Arabia;33.6;41.8;88.9
+Taichung; Taiwan;34.9;65.4;49.5
+Surat; India;44945,00;45011,00;33.5
+Ulaanbaatar; Mongolia;45161,00;35.0;44978,00
+Katowice; Poland;31.6;41.1;61.7
+Catania; Italy;33.7;43.6;55.0
+Chania; Greece;37.2;46.2;37.4
+Cluj-Napoca; Romania;45135,00;38.1;53.6
+Maribor; Slovenia;45016,00;42.6;72.0
+Palermo; Italy;34.4;45.2;63.9
+Nanjing; China;45130,00;35.2;68.7
+Sofia; Bulgaria;45015,00;41.7;59.0
+Kigali; Rwanda;45038,00;31.0;45159,00
+Saint Petersburg; Russia;44950,00;45072,00;47.2
+Riga; Latvia;35.4;43.4;52.6
+Astana (Nur-Sultan); Kazakhstan;45009,00;45199,00;39.1
+Rijeka; Croatia;31.6;41.5;48.9
+Heraklion; Greece;33.8;47.2;40.2
+Cartagena; Colombia;45128,00;44984,00;45043,00
+Rio de Janeiro; Brazil;45105,00;34.1;45128,00
+Baghdad; Iraq;45101,00;45196,00;33.9
+Guayaquil; Ecuador;45163,00;32.7;41.0
+Podgorica; Montenegro;44954,00;37.3;40.5
+Corfu; Greece;32.6;39.8;38.1
+Rabat; Morocco;45039,00;45075,00;28.0
+Harare; Zimbabwe;45195,00;33.5;45094,00
+Brasilia; Brazil;27.0;34.2;39.3
+Georgetown; Guyana;45198,00;46.0;45190,00
+Erbil (Irbil); Iraq;45102,00;45014,00;37.2
+Johannesburg; South Africa;45132,00;44955,00;87.3
+Quezon City; Philippines;45134,00;41.3;45129,00
+Klaipeda; Lithuania;31.0;41.8;59.6
+Ramallah; Palestine;33.0;43.7;36.8
+Kuala Lumpur; Malaysia;45040,00;38.6;71.3
+Pattaya; Thailand;26.0;41.2;45102,00
+Bishkek; Kyrgyzstan;45067,00;44953,00;45099,00
+Puebla; Mexico;44953,00;38.0;35.8
+Caracas; Venezuela;44985,00;38.5;45116,00
+Dubrovnik; Croatia;32.3;39.7;47.8
+Dar es Salaam; Tanzania;45189,00;45196,00;45187,00
+Asuncion; Paraguay;45006,00;45102,00;45163,00
+Kiev (Kyiv); Ukraine;44949,00;45044,00;36.2
+Florianopolis; Brazil;44983,00;32.5;31.6
+Cuenca; Ecuador;45009,00;33.5;45167,00
+Windhoek; Namibia;45067,00;44984,00;39.2
+Cebu; Philippines;45194,00;40.8;45002,00
+Casablanca; Morocco;45008,00;45198,00;33.7
+Al Khobar; Saudi Arabia;36.6;48.0;102.6
+Lviv; Ukraine;21.0;27.0;36.1
+Hanoi; Vietnam;45100,00;36.4;36.5
+Brasov; Romania;44952,00;35.2;45.2
+Constanta; Romania;27.0;34.4;39.1
+Pretoria; South Africa;45069,00;45164,00;86.9
+Kampala; Uganda;45007,00;45044,00;45058,00
+Minsk; Belarus;45193,00;45138,00;37.8
+Penang; Malaysia;45190,00;35.7;60.1
+Petaling Jaya; Malaysia;22.0;34.0;72.3
+Debrecen; Hungary;45165,00;39.4;52.8
+Kaohsiung; Taiwan;44957,00;56.0;56.3
+Durban; South Africa;45129,00;25.0;71.1
+Yekaterinburg; Russia;23.0;45012,00;49.9
+Varna; Bulgaria;44952,00;36.0;48.4
+Baku; Azerbaijan;45007,00;45197,00;45197,00
+Kuching; Malaysia;45008,00;37.3;45165,00
+Chisinau; Moldova;45101,00;45137,00;33.6
+Bogota; Colombia;44977,00;28.0;45104,00
+Medellin; Colombia;45189,00;45044,00;28.0
+Nairobi; Kenya;45037,00;44955,00;45075,00
+Buenos Aires; Argentina;45097,00;45010,00;30.2
+Timisoara; Romania;45070,00;32.9;52.2
+Kharkiv; Ukraine;45158,00;45104,00;45045,00
+Navi Mumbai; India;44944,00;44953,00;82.1
+Campinas; Brazil;45071,00;32.0;32.6
+Ad Dammam; Saudi Arabia;30.0;42.0;109.1
+Santa Cruz; Bolivia;45098,00;44952,00;44984,00
+Chiang Mai; Thailand;44949,00;38.6;32.4
+Iasi; Romania;44981,00;32.3;47.4
+Porto Alegre; Brazil;45162,00;32.2;45164,00
+Quito; Ecuador;45129,00;45077,00;31.9
+Chengdu; China;45129,00;36.0;55.5
+Burgas; Bulgaria;25.0;36.1;45.4
+Tangier; Morocco;45127,00;45137,00;45166,00
+Szeged; Hungary;45135,00;42.4;51.7
+Pristina; Kosovo (Disputed Territory);45189,00;45043,00;35.4
+Da Nang; Vietnam;45006,00;34.3;45038,00
+Sao Jose dos Campos; Brazil;45161,00;32.0;34.6
+Osijek; Croatia;27.0;38.5;51.7
+Amman; Jordan;44955,00;38.5;32.9
+Larissa; Greece;33.3;43.7;42.8
+Mashhad; Iran;18.0;45095,00;26.0
+Sibiu; Romania;45192,00;45169,00;47.4
+Belo Horizonte; Brazil;24.0;31.6;44981,00
+Bangalore; India;45155,00;26.0;123.0
+Ankara; Turkey;45125,00;45162,00;34.0
+Marrakech; Morocco;45098,00;45195,00;45196,00
+Dnipro; Ukraine;45158,00;45164,00;32.0
+Colombo; Sri Lanka;45191,00;44.8;45091,00
+Curitiba; Brazil;45192,00;32.4;35.1
+Gurgaon; India;45003,00;45073,00;87.1
+Novosibirsk; Russia;44978,00;45195,00;35.4
+Ahmedabad; India;45002,00;45042,00;41.1
+Nis; Serbia;45160,00;45137,00;39.7
+Kazan; Russia;44946,00;45101,00;34.7
+Nizhny Novgorod; Russia;45158,00;45010,00;36.7
+Plovdiv; Bulgaria;45192,00;35.8;53.5
+Izmir; Turkey;44975,00;45192,00;32.8
+Craiova; Romania;45007,00;45076,00;46.9
+Delhi; India;17.0;45039,00;60.1
+Gaborone; Botswana;45006,00;45167,00;42.2
+Skopje; North Macedonia;45008,00;32.4;36.2
+Barranquilla; Colombia;45063,00;45070,00;44955,00
+Oradea; Romania;45161,00;35.1;40.2
+Davao; Philippines;24.0;37.2;45186,00
+Odessa (Odesa); Ukraine;44977,00;45196,00;45165,00
+Recife; Brazil;45068,00;44957,00;37.5
+Goiania; Brazil;45130,00;31.9;24.0
+Krasnodar; Russia;45065,00;45070,00;37.6
+Banja Luka; Bosnia And Herzegovina;24.0;34.2;39.8
+Johor Bahru; Malaysia;45005,00;36.5;61.9
+Sarajevo; Bosnia And Herzegovina;45009,00;34.3;51.1
+Mersin; Turkey;45031,00;44977,00;36.6
+Kaliningrad; Russia;45036,00;26.0;32.6
+Baguio; Philippines;45036,00;45134,00;45131,00
+Pune; India;44942,00;45040,00;93.8
+Fortaleza; Brazil;44948,00;45169,00;45125,00
+Tripoli; Libya;45093,00;45100,00;45165,00
+Damascus; Syria;45034,00;45164,00;4.0
+Cali; Colombia;45095,00;29.2;35.2
+Tunis; Tunisia;45004,00;45075,00;45160,00
+Surabaya; Indonesia;44945,00;33.2;44985,00
+Bursa; Turkey;18.0;44950,00;37.7
+New Cairo; Egypt;16.0;21.0;45190,00
+Hyderabad; India;45001,00;45011,00;65.9
+Algiers; Algeria;45188,00;35.8;45069,00
+Tuzla; Bosnia And Herzegovina;45190,00;31.9;41.4
+Chennai; India;44941,00;25.0;60.4
+Kathmandu; Nepal;45002,00;45070,00;45065,00
+Kocaeli; Turkey;45000,00;45129,00;43.8
+Noida; India;44974,00;45194,00;75.4
+Jaipur; India;15.0;45191,00;39.5
+Agadir; Morocco;45095,00;45133,00;45135,00
+Bucaramanga; Colombia;44971,00;45095,00;45106,00
+Bitola; North Macedonia;45035,00;45168,00;34.0
+Kayseri; Turkey;44942,00;44948,00;35.9
+Kolkata; India;44971,00;45039,00;49.8
+Cairo; Egypt;45061,00;45069,00;45063,00
+Eskisehir; Turkey;45122,00;45039,00;34.8
+Sousse; Tunisia;16.0;44952,00;33.5
+Sfax; Tunisia;45123,00;28.0;45195,00
+Kochi; India;14.0;45009,00;68.3
+Adana; Turkey;45121,00;45128,00;38.6
+Islamabad; Pakistan;45149,00;45000,00;45131,00
+Konya; Turkey;45182,00;44977,00;36.7
+Dhaka; Bangladesh;45185,00;44985,00;26.0
+Lucknow (Lakhnau); India;45029,00;45065,00;55.3
+Coimbatore; India;13.0;45007,00;48.0
+Indore; India;45181,00;45006,00;63.4
+Bhubaneswar; India;45182,00;45039,00;46.2
+Vadodara; India;44999,00;45041,00;50.0
+Lahore; Pakistan;45149,00;45092,00;24.0
+Chittagong; Bangladesh;44972,00;45161,00;45072,00
+Alexandria; Egypt;45149,00;45095,00;45002,00
+Karachi; Pakistan;45179,00;16.0;45036,00
+Giza; Egypt;12.0;45033,00;45097,00
+Bhopal; India;45120,00;45161,00;50.8
